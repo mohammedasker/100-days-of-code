@@ -13,5 +13,4 @@
 **Thoughts** I managed to get my calculator to work and need to improve its looks. I think I found a tiny bit of JavaScript patterns.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Calculator](https://mohammedasker.github.io/Calculator/.)
