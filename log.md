@@ -18,4 +18,10 @@
 **Link(s) to work**
 [Calculator](https://mohammedasker.github.io/Calculator/.)
 
+### Day 2: June 12, 2019
+
+**Today's Progress**: Not much done. Just reading someone's code.
+
+**Thoughts**: I tried to find ways to get my calculator to display syntax error with no luck. Found myself spending more time on reading someone's code to undedrstand how to works than writing actual codes. I should've clone the codes rarlier before the practice time and then break them all into pieces to get the gist of it. No biggie - it's slow day for me.
+
 
