@@ -24,4 +24,10 @@
 
 **Thoughts**: I tried to find ways to get my calculator to display syntax error with no luck. Found myself spending more time on reading someone's code to understand how it works than writing actual codes. I should've clone the codes earlier before the practice time and then break them all into pieces to get the gist of it. No biggie - it's slow day for me.
 
+### Day 3: June 13, 2019
+
+**Today's Progress**: Reading other people's codes and break it to study its effects.
+
+**Thoughts**: While today I haven't code much, I had fun breaking people's codes and understand how their codes works. Apparently, you can use <header> element in HTML to create display screen for the calculator. It was an interesting discovery to say the least.
+
 
