@@ -28,6 +28,6 @@
 
 **Today's Progress**: Reading other people's codes and break it to study its effects.
 
-**Thoughts**: While today I haven't code much, I had fun breaking people's codes and understand how their codes works. Apparently, you can use <header> element in HTML to create display screen for the calculator. It was an interesting discovery to say the least.
+**Thoughts**: While today I haven't code much, I had fun breaking people's codes and understand how their codes works. Apparently, you can use the header element in HTML to create display screen for the calculator. It was an interesting discovery to say the least.
 
 
