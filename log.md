@@ -30,4 +30,10 @@
 
 **Thoughts**: While today I haven't code much, I had fun breaking people's codes and understand how their codes works. Apparently, you can use the header element in HTML to create display screen for the calculator. It was an interesting discovery to say the least.
 
+### Day 4: June 14, 2019
+
+**Today's Progress**: Did some basic JavaScript excerises on FreeCodeCamp to refresh my knwoledge.
+
+**Thoughts**: Yesterday, I joined the CareerDev mentorship program and my new mentor, Steve helped him greatly. It didn't occured to me that I can use console log to analysis what my code is doing under the hood. While I have no idea how it works right now, I'm sure it make a big differences in getting better my coding skills.
+
 
