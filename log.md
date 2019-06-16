@@ -40,12 +40,12 @@
 
 **Today's Progress**: Did some more JavaScript challenges in FreeCodeCamp.
 
-**Thoughts**: I finally understood why I'm having trouble learning JavaScript. It's because I have no practical uses for it yet, unlike HTML and CSS. From now on, I'll just focus practice its basics features used for front-end development.
+**Thoughts**: I finally understood why I'm having trouble learning JavaScript. It's because I have no practical uses for it yet, unlike HTML and CSS. From now on, I'll just focus on learning the most basics features used mainly for front-end development.
 
 ### Day 6: June 16, 2019
 
-**Today's Progress**: Practicing JavaScript functions by creating dynamic paragraph
+**Today's Progress**: Practicing JavaScript functions by creating dynamic paragraph.
 
-**Thoughts**: I did a very simple task of changing the colors and font size of paragraph using JavaScript functions. For the first time in a while, I'm actually enjoying this.
+**Thoughts**: I did a very simple task of changing the colors and font size of paragraph using JavaScript functions. Still not easy, however for the first time in a while, I'm actually enjoying this.
 
 
