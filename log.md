@@ -50,7 +50,7 @@
 
 ### Day 7: June 17, 2019
 
-**Today's Progress**: Successfully built a simple task if making dynamic paragraph.
+**Today's Progress**: Successfully built a simple task of making dynamic paragraph.
 
 **Thoughts**: I cannot believe myself! I actually managed to change the sizes, font style, colors, and position of the paragraph without looking up a tutorial! I only read a guide, played a little bit, came up a tiny task and made it one. Now, I begin to understand a little bit of how to change HTML/CSS using the function feature in JavaScript.
 
