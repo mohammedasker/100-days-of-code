@@ -48,4 +48,10 @@
 
 **Thoughts**: I did a very simple task of changing the colors and font size of paragraph using JavaScript functions. Still not easy, however for the first time in a while, I'm actually enjoying this.
 
+### Day 7: June 17, 2019
+
+**Today's Progress**: Successfully built a simple task if making dynamic paragraph.
+
+**Thoughts**: I cannot believe myself! I actually managed to change the sizes, font style, colors, and position of the paragraph without looking up a tutorial! I only read a guide, played a little bit, came up a tiny task and made it one. Now, I begin to understand a little bit of how to change HTML/CSS using the function feature in JavaScript.
+
 
