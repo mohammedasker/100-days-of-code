@@ -54,4 +54,13 @@
 
 **Thoughts**: I cannot believe myself! I actually managed to change the sizes, font style, colors, and position of the paragraph without looking up a tutorial! I only read a guide, played a little bit, came up a tiny task and made it one. Now, I begin to understand a little bit of how to change HTML/CSS using the function feature in JavaScript.
 
+### Day 8: June 18, 2019
+
+**Today's Progress**: Practicing JavaScript functions and learning little bit of console.log.
+
+**Thoughts**: I added a default button that will return changed paragraph to its original form. Seeing how I make this worked through copying snippets of my code then tweaking only the necessary parts and seeing all come out a live is quite satisfying.
+
+**Link(s) to work**
+[Simple dynamic paragraph](https://codepen.io/Mohdasker/pen/zVqVdZ)
+
 
