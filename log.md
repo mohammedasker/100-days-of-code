@@ -60,13 +60,13 @@
 
 **Thoughts**: I added a default button that will return changed paragraph to its original form. Seeing how I make this worked through copying snippets of my code then tweaking only the necessary parts and seeing all come out a live is quite satisfying.
 
+**Link(s) to work**
+[Simple dynamic paragraph](https://codepen.io/Mohdasker/pen/zVqVdZ)
+
 ### Day 9: June 19, 2019
 
 **Today's Progress**: Practicing JavaScript event listener and begin to build personal website.
 
 **Thoughts** Not gonna lie, I can't tell the difference between eventListener and functions. To me, it seems like they do the same thing, and the differencesis the ways of typing the code. I need to explore it more.
-
-**Link(s) to work**
-[Simple dynamic paragraph](https://codepen.io/Mohdasker/pen/zVqVdZ)
 
 
