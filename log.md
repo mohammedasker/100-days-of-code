@@ -69,4 +69,12 @@
 
 **Thoughts** Not gonna lie, I can't tell the difference between eventListener and functions. To me, it seems like they do the same thing, and the differencesis the ways of typing the code. I need to explore it more.
 
+### Day 10: June 20, 2019
+
+**Today's Progress**: Still practicing JavaScript event listener.
+
+**Thoughts**: Uhhhhh...nope. I still have no idea what event listener supposed to do. I guess I should look up the reference for a while. In the meantime, my own website still looking funny and too cringy to post a link in GitHub. Gotta fix 'em later.
+
+
+
 
