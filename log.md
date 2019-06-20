@@ -73,7 +73,7 @@
 
 **Today's Progress**: Still practicing JavaScript event listener.
 
-**Thoughts**: Uhhhhh...nope. I still have no idea what event listener supposed to do. I guess I should look up the reference for a while. In the meantime, my own website still looking funny and too cringy to post a link in GitHub. Gotta fix 'em later.
+**Thoughts**: Uhhhhh...nope. I still have no idea what event listener is supposed to do. I guess I should look up the reference for a while. In the meantime, my own website still looking funny and too cringy to post a link in GitHub. Gotta fix 'em later.
 
 
 
