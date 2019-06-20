@@ -67,7 +67,7 @@
 
 **Today's Progress**: Practicing JavaScript event listener and begin to build personal website.
 
-**Thoughts** Not gonna lie, I can't tell the difference between eventListener and functions. To me, it seems like they do the same thing, and the differencesis the ways of typing the code. I need to explore it more.
+**Thoughts** Not gonna lie, I can't tell the difference between eventListener and functions. To me, it seems like they do the same thing, and the differences is the ways of typing the code. I need to explore it more.
 
 ### Day 10: June 20, 2019
 
