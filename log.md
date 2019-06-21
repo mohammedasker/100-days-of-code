@@ -75,6 +75,12 @@
 
 **Thoughts**: Uhhhhh...nope. I still have no idea what event listener is supposed to do. I guess I should look up the reference for a while. In the meantime, my own website still looking funny and too cringy to post a link in GitHub. Gotta fix 'em later.
 
+### Day 11: June 21, 2019
+
+**Today's Progress**: And yet, practicing JavaScript event listener. But there's progress!
+
+**Thoughts**: And the progress is... while the function and eventlistener do the same thing, the difference is in eventlistener, you don't need to put onclick attribute in HTML since the "Click" in JavaScript will take care in its place (Not that I know why click here is necessary. It gives "syntax error: expecting expression but got ," error message). On unrelated notes, I understood the purpose of const variable - you can change variable names with var or let, but const won't allow you.
+
 
 
 
