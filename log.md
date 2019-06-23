@@ -95,6 +95,8 @@ Projects? No - no yet. Maybe next month.
 
 **Thoughts**: Feeling tired today and made no progress in my calculator again. At least, I have a rough idea on where to look for solutions, so I'll take a rest.
 
+**Update**: Change of plans: I'm gonna create a notes app and trying a new approach of solving my coding problems. This new thought has completely energized me and I will make this new project successfil no matter what!!
+
 
 
 
