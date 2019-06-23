@@ -85,9 +85,15 @@
 
 **Today's Progress**: Played a little bit of variables today.
 
-**Thoughts**: After tackling functions for a few days, I'm now trying to understand how does variables works. Outside of storing user data, I want to know where else should I use these variables. This is going to be my next focus point of coding.
+**Thoughts**: After tackling functions for a few days, I'm now trying to understand how does the variables works. Outside of storing user data, I want to know where else should I use these variables. This is going to be my next focus point of coding.
 
 Projects? No - no yet. Maybe next month.
+
+### Day 13: June 23, 2019
+
+**Today's Progress**: Start practicing if statements.
+
+**Thoughts**: Feeling tired today and made no progress in my calculator again. At least, I have a rough idea on where to look for solutions, so I'll take a rest.
 
 
 
