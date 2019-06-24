@@ -102,7 +102,3 @@ Projects? No - no yet. Maybe next month.
 **Today's Progress**: Creating a simple story using event handlers.
 
 **Thoughts**:I had this weird idea of making a silly game using every tools of JavaScript I learnt so far. It will look pointless from user's point of view, but it should help me get better of JavaScript.
-
-
-
-
