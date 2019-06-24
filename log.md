@@ -97,6 +97,12 @@ Projects? No - no yet. Maybe next month.
 
 **Update**: Change of plans: I'm gonna create a notes app and trying a new approach of solving my coding problems. This new thought has completely energized me and I will make this new project successfil no matter what!!
 
+### Day 14: June 24, 2019
+
+**Today's Progress**: Creating a simple story using event handlers.
+
+**Thoughts**:I had this weird idea of making a silly game using every tools of JavaScript I learnt so far. It will look pointless from user's point of view, but it should help me get better of JavaScript.
+
 
 
 
