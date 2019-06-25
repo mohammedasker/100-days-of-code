@@ -107,4 +107,4 @@ Projects? No - no yet. Maybe next month.
 
 **Today's Progress**: Almost finished creating the intro stage of the game.
 
-**Thoughts**: I created another project called the JS Dojo which is a storytelling game where the player have to select the right answer to procced the story. The best part I did is creating a small problom for myself and actually solved on my own. The problem itself is too trival, but I liked how I managed to handle it on my own.
+**Thoughts**: I created another project called the JS Dojo - which is a storytelling game where the player have to make the right choice to procced the story. The best part of the day is how I created a small problem and actually solved on my own. The problem itself may be seems to be trivial, but I liked how I managed to fix it by myself.
