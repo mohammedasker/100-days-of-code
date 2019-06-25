@@ -102,3 +102,9 @@ Projects? No - no yet. Maybe next month.
 **Today's Progress**: Creating a simple story using event handlers.
 
 **Thoughts**:I had this weird idea of making a silly game using every tools of JavaScript I learnt so far. It will look pointless from user's point of view, but it should help me get better of JavaScript.
+
+### Day 15: June 25, 2019
+
+**Today's Progress**: Almost finished creating the intro stage of the game.
+
+**Thoughts**: I created another project called the JS Dojo which is a storytelling game where the player have to select the right answer to procced the story. The best part I did is creating a small problom for myself and actually solved on my own. The problem itself is too trival, but I liked how I managed to handle it on my own.
