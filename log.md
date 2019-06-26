@@ -108,3 +108,10 @@ Projects? No - no yet. Maybe next month.
 **Today's Progress**: Almost finished creating the intro stage of the game.
 
 **Thoughts**: I created another project called the JS Dojo - which is a storytelling game where the player have to make the right choice to procced the story. The best part of the day is how I created a small problem and actually solved on my own. The problem itself may be seems to be trivial, but I liked how I managed to fix it by myself.
+
+### Day 16: June 26, 2019
+
+**Today's Progress**: Finished creating the intro stage of the game.
+
+**Thoughts**: Creating something that's random is fun. I have 4 more stages to go before posting a link to the game.
+
