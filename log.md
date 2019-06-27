@@ -115,3 +115,9 @@ Projects? No - no yet. Maybe next month.
 
 **Thoughts**: Creating something that's random is fun. I have 4 more stages to go before posting a link to the game.
 
+### Day 17: June 27, 2019
+
+**Today's Progress**: started creating stage 1 of the game.
+
+**Thoughts**: I spend 15 minutes debugging error and the solution is fixing my typo - good. And now, I got a new error that won't allow my button to work. I think I got a lot of work to do.
+
