@@ -121,3 +121,9 @@ Projects? No - no yet. Maybe next month.
 
 **Thoughts**: I spend 15 minutes debugging error and the solution is fixing my typo - good. And now, I got a new error that won't allow my button to work. I think I got a lot of work to do.
 
+### Day 18: June 28, 2019
+
+**Today's Progress**: Finished creating the first stage of the game.
+
+**Thoughts**: My codes looked so terrible that even a monkey can do this. The game is working as I intended, but I cannot help thinking that there are better ways I can do. I should probably ask someone for their opinion in the future. For now, I'll procced to stage 2 of the game.
+
