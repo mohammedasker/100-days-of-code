@@ -127,3 +127,9 @@ Projects? No - no yet. Maybe next month.
 
 **Thoughts**: My codes looked so terrible that even a monkey can do this. The game is working as I intended, but I cannot help thinking that there are better ways I can do. I should probably ask someone for their opinion in the future. For now, I'll procced to stage 2 of the game.
 
+### Day 19: June 29, 2019
+
+**Today's Progress**: Working on the second stage of the game.
+
+**Thoughts**: My git files have failed to push into GitHub because the repo has changed inside the GitHub. Luckily, all I have to do is to pull the files from GitHub and then push it again. Lesson learned. 
+
