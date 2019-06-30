@@ -131,5 +131,11 @@ Projects? No - no yet. Maybe next month.
 
 **Today's Progress**: Working on the second stage of the game.
 
-**Thoughts**: My git files have failed to push into GitHub because the repo has changed inside the GitHub. Luckily, all I have to do is to pull the files from GitHub and then push it again. Lesson learned. 
+**Thoughts**: My git files have failed to push into GitHub because the repo has changed inside the GitHub. Luckily, all I have to do is to pull the files from GitHub and then push it again. Lesson learned.
+
+### Day 20: June 30, 2019
+
+**Today's Progress**: Fixing if statement conditions in second stage of the game.
+
+**Thoughts**: Errors.. errors.. and more errors! My code is not working and made no significant progress. To be fair, I was slacking off by browsering interesting, but unrelated articles and forums. I did however formed a hypothesis on why my code didn't not worked and I will search for the answers.
 
