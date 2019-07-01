@@ -139,3 +139,13 @@ Projects? No - no yet. Maybe next month.
 
 **Thoughts**: Errors.. errors.. and more errors! My code is not working and made no significant progress. To be fair, I was slacking off by browsering interesting, but unrelated articles and forums. I did however formed a hypothesis on why my code didn't not worked and I will search for the answers.
 
+### Day 20: June 30, 2019
+
+**Today's Progress**: Fixed if statement conditions in second stage of the game.
+
+**Thoughts**: I asked a question on Stack Overflow to find out why my code didn't work and learned the follow reasons:
+1. I wrote if statement condition outside of the function outside.
+2. The function contains variables so it will never work outside the code.
+3. In if statement condition, I used "=" instead of "==".
+
+Thanks to the nice people on the internet, I have uncovered what I don't know and it's time to read guides especially the "=" thing.
