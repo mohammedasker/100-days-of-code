@@ -149,3 +149,9 @@ Projects? No - no yet. Maybe next month.
 3. In if statement condition, I used "=" instead of "==".
 
 Thanks to the nice people on the internet, I have uncovered what I don't know and it's time to read guides especially the "=" thing.
+
+### Day 21: July 1, 2019
+
+**Today's Progress**: Started building third stage of the game.
+
+**Thoughts** Got nothing much to say. Just learning the difference between setTimeout and setInterval.
