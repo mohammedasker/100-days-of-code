@@ -139,7 +139,7 @@ Projects? No - no yet. Maybe next month.
 
 **Thoughts**: Errors.. errors.. and more errors! My code is not working and made no significant progress. To be fair, I was slacking off by browsering interesting, but unrelated articles and forums. I did however formed a hypothesis on why my code didn't not worked and I will search for the answers.
 
-### Day 20: June 30, 2019
+### Day 21: July 1, 2019
 
 **Today's Progress**: Fixed if statement conditions in second stage of the game.
 
@@ -150,8 +150,16 @@ Projects? No - no yet. Maybe next month.
 
 Thanks to the nice people on the internet, I have uncovered what I don't know and it's time to read guides especially the "=" thing.
 
-### Day 21: July 1, 2019
+### Day 22: July 2, 2019
 
 **Today's Progress**: Started building third stage of the game.
 
 **Thoughts** Got nothing much to say. Just learning the difference between setTimeout and setInterval.
+
+### Day 23: July 3, 2019
+
+**Today's Progress**: Got progress bar working for third stage of the game.
+
+**Thoughts** Alright, I managed to make the progress bar more dynamic and all is left is to make bar go from right to left. On another note, I noticed the intervals are firing multiple times in the console.log and I don't like that. I guess I have more things to fix than originally planned.
+
+Oh, well... whatever.
