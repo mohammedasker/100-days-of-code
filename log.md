@@ -158,7 +158,7 @@ Thanks to the nice people on the internet, I have uncovered what I don't know an
 
 ### Day 23: July 3, 2019
 
-**Today's Progress**: Got progress bar working for third stage of the game.
+**Today's Progress**: Got the progress bar working for third stage of the game.
 
 **Thoughts** Alright, I managed to make the progress bar more dynamic and all is left is to make bar go from right to left. On another note, I noticed the intervals are firing multiple times in the console.log and I don't like that. I guess I have more things to fix than originally planned.
 
