@@ -163,3 +163,9 @@ Thanks to the nice people on the internet, I have uncovered what I don't know an
 **Thoughts** Alright, I managed to make the progress bar more dynamic and all is left is to make bar go from right to left. On another note, I noticed the intervals are firing multiple times in the console.log and I don't like that. I guess I have more things to fix than originally planned.
 
 Oh, well... whatever.
+
+### Day 24: July 4, 2019
+
+**Today's Progress**: Changed the progress bar transitions from right to left.
+
+**Thoughts** I was wondering if there is a way to reverse the progress bar transition. Turns out yes and all I got to do is to float the bar to right in CSS. No JavaScript are involved.
