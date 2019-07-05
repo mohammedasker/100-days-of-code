@@ -169,3 +169,11 @@ Oh, well... whatever.
 **Today's Progress**: Changed the progress bar transitions from right to left.
 
 **Thoughts** I was wondering if there is a way to reverse the progress bar transition. Turns out yes and all I got to do is to float the bar to right in CSS. No JavaScript are involved.
+
+### Day 25: July 5, 2019
+
+**Today's Progress**: Changed the progress bar transitions from right to left.
+
+**Thoughts** I don't get why I cannot hide the "mission failed" message when I clicked the potion. I clearly stated the element to display none when user clicks drug button. Maybe, one function has override the other or something like that. I'm not really sure.
+
+I'll see what I can do tomorrow with fresh mind.
