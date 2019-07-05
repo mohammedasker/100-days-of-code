@@ -172,7 +172,7 @@ Oh, well... whatever.
 
 ### Day 25: July 5, 2019
 
-**Today's Progress**: Changed the progress bar transitions from right to left.
+**Today's Progress**: Added some HTML elements and a button fuctionality for stage 3.
 
 **Thoughts** I don't get why I cannot hide the "mission failed" message when I clicked the potion. I clearly stated the element to display none when user clicks drug button. Maybe, one function has override the other or something like that. I'm not really sure.
 
