@@ -176,4 +176,10 @@ Oh, well... whatever.
 
 **Thoughts** I don't get why I cannot hide the "mission failed" message when I clicked the potion. I clearly stated the element to display none when user clicks drug button. Maybe, one function has override the other or something like that. I'm not really sure.
 
-I'll see what I can do tomorrow with fresh mind.
+I'll see what I can do tomorrow when I have a fresh mind.
+
+### Day 26: July 6, 2019
+
+**Today's Progress**: Debugging a button fuctionality for stage 3.
+
+**Thoughts** Using clearInterval() should not be problem if there is only variable. But since my code contain 3 variables, it's going to be tough to debug my code. I tried to put clearInterval() in each variable and it does not work at all. I have to find my way around this challenge.
