@@ -183,3 +183,10 @@ I'll see what I can do tomorrow when I have a fresh mind.
 **Today's Progress**: Debugging a button fuctionality for stage 3.
 
 **Thoughts** Using clearInterval() should not be problem if there is only variable. But since my code contain 3 variables, it's going to be tough to debug my code. I tried to put clearInterval() in each variable and it does not work at all. I have to find my way around this challenge.
+
+### Day 27: July 7, 2019
+
+**Today's Progress**: Debugging potion button fuctionality for stage 3.
+
+**Thoughts** I don't get it. Why is it giving me undefined errors when I placed a var inside the clearInterval() bracket line.
+I really don't get it. 3 days to go before I goolge the answer.
