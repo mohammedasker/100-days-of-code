@@ -190,3 +190,9 @@ I'll see what I can do tomorrow when I have a fresh mind.
 
 **Thoughts** I don't get it. Why is it giving me undefined errors when I placed a var inside the clearInterval() bracket line.
 I really don't get it. 3 days to go before I goolge the answer.
+
+### Day 28: July 8, 2019
+
+**Today's Progress**: Fixed a potion button bug fuctionality for stage 3.
+
+**Thoughts** I fixed it by hiding each HTML element tags instead of stopping the bar transition itself. While I know this may sound like I did half-assed job, I promise I will return to fix it at another time.
