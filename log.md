@@ -201,7 +201,7 @@ I really don't get it. 3 days to go before I goolge the answer.
 
 **Today's Progress**: Changed the layout of the website.
 
-**Thoughts** The internet is not working today so I used this opportunity to change the layout of the website to make it better.
+**Thoughts** The internet is not working today so I used this opportunity to change the layout of the website to make it look better.
 
 ### Day 30: July 10, 2019
 
