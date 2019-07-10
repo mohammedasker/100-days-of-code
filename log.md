@@ -196,3 +196,15 @@ I really don't get it. 3 days to go before I goolge the answer.
 **Today's Progress**: Fixed a potion button bug fuctionality for stage 3.
 
 **Thoughts** I fixed it by hiding each HTML element tags instead of stopping the bar transition itself. While I know this may sound like I did half-assed job, I promise I will return to fix it at another time.
+
+### Day 29: July 9, 2019
+
+**Today's Progress**: Changed the layout of the website.
+
+**Thoughts** The internet is not working today so I used this opportunity to change the layout of the website to make it better.
+
+### Day 30: July 10, 2019
+
+**Today's Progress**: Started buiding stage 4 of the game.
+
+**Thoughts** The time counter is not working in stage 4 unless I put the code in HTML file or removed conditional codes of the stage 1. Maybe, it's something to do with the variables for the time counter. I need to find it out more.
