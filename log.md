@@ -208,3 +208,9 @@ I really don't get it. 3 days to go before I goolge the answer.
 **Today's Progress**: Started buiding stage 4 of the game.
 
 **Thoughts** The time counter is not working in stage 4 unless I put the code in HTML file or removed conditional codes of the stage 1. Maybe, it's something to do with the variables for the time counter. I need to find it out more.
+
+### Day 31: July 11, 2019
+
+**Today's Progress**: Started buiding stage 4 of the game.
+
+**Thoughts** Okay, the time counter problem has been taken care by moving the code snippet inside the playgame function. Next, I need to figure out how to display the "you lose" message when the countdown reaches zero. Not easy of course, but it's doable.
