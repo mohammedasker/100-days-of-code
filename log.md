@@ -213,4 +213,12 @@ I really don't get it. 3 days to go before I goolge the answer.
 
 **Today's Progress**: Started buiding stage 4 of the game.
 
-**Thoughts** Okay, the time counter problem has been taken care by moving the code snippet inside the playgame function. Next, I need to figure out how to display the "you lose" message when the countdown reaches zero. Not easy of course, but it's doable.
+**Thoughts** Okay, the time counter problem has been taken care by moving the code snippet inside the playgame function. Next, I need to figure out how to display the "you lose" message when the countdown timer reaches zero. Not easy of course, but it's doable.
+
+### Day 32: July 12, 2019
+
+**Today's Progress**: Finished buiding stage 4 of the game.
+
+**Thoughts** I fixed problem of the "you lose" message not displaying when the countdown timer reaches zero. Once again, the reason is I put the code snippet in the wrong curly bracket again! When I think about this, it actually makes more sense because the logic flow are supposed to go in certain way. I can't explain myself clearly, but the point is I didn't pay attention.
+
+Anyway, this game will be done within 3-4 days!
