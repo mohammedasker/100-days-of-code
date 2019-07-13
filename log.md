@@ -222,3 +222,9 @@ I really don't get it. 3 days to go before I goolge the answer.
 **Thoughts** I fixed problem of the "you lose" message not displaying when the countdown timer reaches zero. Once again, the reason is I put the code snippet in the wrong curly bracket again! When I think about this, it actually makes more sense because the logic flow are supposed to go in certain way. I can't explain myself clearly, but the point is I didn't pay attention.
 
 Anyway, this game will be done within 3-4 days!
+
+### Day 33: July 13, 2019
+
+**Today's Progress**: Changing the layout of the website.
+
+**Thoughts** Thank God for the developer tools! Without it, I would have a hard time fixing tiny mistakes. Actually, how did the developers used to fix bugs before developer tools was a thing? Hmmm......
