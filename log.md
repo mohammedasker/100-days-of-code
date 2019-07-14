@@ -228,3 +228,9 @@ Anyway, this game will be done within 3-4 days!
 **Today's Progress**: Changing the layout of the website.
 
 **Thoughts** Thank God for the developer tools! Without it, I would have a hard time fixing tiny mistakes. Actually, how did the developers used to fix bugs before developer tools was a thing? Hmmm......
+
+### Day 34: July 14, 2019
+
+**Today's Progress**: Changing the buttons layout in stage 1.
+
+**Thoughts** I'm still trying to get used to CSS grid. Grid is cool and I may probably never touch flexbox, but whatever.
