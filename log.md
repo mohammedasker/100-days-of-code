@@ -234,3 +234,9 @@ Anyway, this game will be done within 3-4 days!
 **Today's Progress**: Changing the buttons layout in stage 1.
 
 **Thoughts** I'm still trying to get used to CSS grid. Grid is cool and I may probably never touch flexbox, but whatever.
+
+### Day 35: July 15, 2019
+
+**Today's Progress**: Fixed layout of intro stage and hide potion button when clicked.
+
+**Thoughts** The game almost ready to play and will show it to everyone on Twitter tomorrow. Also, I'm starting to get confident in writing JavaScript functions, innerHTML, Style, and if statement conditions. I like it how when I want to make small changes in my web game and tweaked little bit of JS codes and worked exactly the way I want to. In other words, I begin to understand basics of JavaScript and I feel great!
