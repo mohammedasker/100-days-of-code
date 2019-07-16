@@ -240,3 +240,9 @@ Anyway, this game will be done within 3-4 days!
 **Today's Progress**: Fixed layout of intro stage and hide potion button when clicked.
 
 **Thoughts** The game is almost ready to play and will show it to everyone on Twitter tomorrow. Also, I'm starting to get confident in writing JavaScript functions, innerHTML, Style, and if statement conditions. I like it how when I want to make small changes in my web game and have tweaked little bit of JS codes and worked exactly the way I want to. In other words, I begin to understand basics of JavaScript and I feel great!
+
+### Day 36: July 16, 2019
+
+**Today's Progress**: Fixed answer butons layout of stage 2.
+
+**Thoughts** I think I'm almost done with the game project and I'm going to show it to everyone for the feedback. The project was not easy, but it was fun.
