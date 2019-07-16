@@ -243,6 +243,6 @@ Anyway, this game will be done within 3-4 days!
 
 ### Day 36: July 16, 2019
 
-**Today's Progress**: Fixed answer butons layout of stage 2.
+**Today's Progress**: Fixed answer buttons layout of stage 2.
 
 **Thoughts** I think I'm almost done with the game project and I'm going to show it to everyone for the feedback. The project was not easy, but it was fun.
