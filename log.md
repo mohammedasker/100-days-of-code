@@ -247,6 +247,7 @@ Anyway, this game will be done within 3-4 days!
 
 **Thoughts** I think I'm almost done with the game project and I'm going to show it to everyone for the feedback. The project was not easy, but it was fun.
 
+**Link(s) to work**
 [JS Dojo](https://mohammedasker.github.io/JSDojo/)
 
 ### Day 37: July 17, 2019
