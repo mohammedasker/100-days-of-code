@@ -246,3 +246,13 @@ Anyway, this game will be done within 3-4 days!
 **Today's Progress**: Fixed answer buttons layout of stage 2.
 
 **Thoughts** I think I'm almost done with the game project and I'm going to show it to everyone for the feedback. The project was not easy, but it was fun.
+
+[JS Dojo](https://mohammedasker.github.io/JSDojo/)
+
+### Day 37: July 17, 2019
+
+**Today's Progress**: Begin to build tribute page for Free Code Camp.
+
+**Thoughts** Man, the CDN link is not working. I need it in order to test my codes for the sake of completing the project and get the certificate and spend almost 1 hour without luck. Oh, well. Time to get some help.
+
+On another note. I finished my mini project yesterday and it is still buggy with ugly UI. I'll return to it later after doing some FCC projects.
