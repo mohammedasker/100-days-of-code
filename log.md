@@ -257,3 +257,9 @@ Anyway, this game will be done within 3-4 days!
 **Thoughts** Man, the CDN link is not working. I need it in order to test my codes for the sake of completing the project and get the certificate and spend almost 1 hour without luck. Oh, well. Time to get some help.
 
 On another note. I finished my mini project yesterday and it is still buggy with ugly UI. I'll return to it later after doing some FCC projects.
+
+### Day 38: July 18, 2019
+
+**Today's Progress**: Changed text contents, background colors, and font family of the tribute page.
+
+**Thoughts** I'm such a silly person. Why did I used strong elements in HTML when I could simply use b elements to change the text style into bold? Anyways, the project itself is going fine, but I need to do something about the CDN link.
