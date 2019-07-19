@@ -7,6 +7,7 @@
 **Thoughts**: I'm gonna use this opportunity to improve my coding skills and learn JavaScript. This is going to be fun! I also managed to get my calculator to work and need to improve its looks. I think I found a tiny bit of JavaScript patterns.
 
 **Link(s) to work**
+
 [Calculator](https://mohammedasker.github.io/Calculator/.)
 
 ### Day 1: June 11, 2019
@@ -16,6 +17,7 @@
 **Thoughts**: I have learn how tr and td tags in HTML works and it was interesting. I should've put the table tag or these tags won't work. I have yet to figure out how to set custom errors in JavaScript when a user put incorrect inputs.
 
 **Link(s) to work**
+
 [Calculator](https://mohammedasker.github.io/Calculator/.)
 
 ### Day 2: June 12, 2019
@@ -61,6 +63,7 @@
 **Thoughts**: I added a default button that will return changed paragraph to its original form. Seeing how I make this worked through copying snippets of my code then tweaking only the necessary parts and seeing all come out a live is quite satisfying.
 
 **Link(s) to work**
+
 [Simple dynamic paragraph](https://codepen.io/Mohdasker/pen/zVqVdZ)
 
 ### Day 9: June 19, 2019
@@ -248,6 +251,7 @@ Anyway, this game will be done within 3-4 days!
 **Thoughts** I think I'm almost done with the game project and I'm going to show it to everyone for the feedback. The project was not easy, but it was fun.
 
 **Link(s) to work**
+
 [JS Dojo](https://mohammedasker.github.io/JSDojo/)
 
 ### Day 37: July 17, 2019
@@ -271,6 +275,7 @@ On another note. I finished my mini project yesterday and it is still buggy with
 **Thoughts** Okay, I managed to get CDN link working and have successfully submit the first project of the FFC. Now, I'm building the second project and it shouldn't take a long time to finish it.
 
 **Link(s) to work**
+
 [Tribute Page](https://mohammedasker.github.io/tributepage/)
 
 [Survey Page](https://mohammedasker.github.io/SurveyPage/)
