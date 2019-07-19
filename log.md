@@ -263,3 +263,15 @@ On another note. I finished my mini project yesterday and it is still buggy with
 **Today's Progress**: Changed text contents, background colors, and font family of the tribute page.
 
 **Thoughts** I'm such a silly person. Why did I used strong elements in HTML when I could simply use b elements to change the text style into bold? Anyways, the project itself is going fine, but I need to do something about the CDN link.
+
+### Day 39: July 19, 2019
+
+**Today's Progress**: Submitted tribute page and start doing second project of FFC web responsive design project.
+
+**Thoughts** Okay, I managed to get CDN link working and have successfully submit the first project of the FFC. Now, I'm building the second project and it shouldn't take a long time to finish it.
+
+**Link(s) to work**
+[Tribute Page](https://mohammedasker.github.io/tributepage/)
+
+[Survey Page](https://mohammedasker.github.io/SurveyPage/)
+
