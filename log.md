@@ -280,3 +280,13 @@ On another note. I finished my mini project yesterday and it is still buggy with
 
 [Survey Page](https://mohammedasker.github.io/SurveyPage/)
 
+### Day 40: July 20, 2019
+
+**Today's Progress**: Submitted survey page and start doing third project of FFC web responsive design project.
+
+**Thoughts** I finished the second project faster than I expected which is cool. The project looks okay, but I can make the page a lot better and will probably do it when I have extra time. Next, I will start building a third project and that's going to be a landing page. Most likely, it will take me more than a day to complete it.
+
+**Link(s) to work**
+
+[Survey Page](https://mohammedasker.github.io/SurveyPage/)
+
