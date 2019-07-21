@@ -290,3 +290,13 @@ On another note. I finished my mini project yesterday and it is still buggy with
 
 [Survey Page](https://mohammedasker.github.io/SurveyPage/)
 
+### Day 41: July 21, 2019
+
+**Today's Progress**: Added video, images, logo, and header color of landing page.
+
+**Thoughts** I swear - I will never understand how the header thing works. I don't why I cannot hide the small gaps on the header. I even copied line by line CSS scripts from my previous projects and it's still there. Whoever said CSS is easy has to apologize all developers in the world!
+
+**Link(s) to work**
+
+[Survey Page](https://mohammedasker.github.io/SurveyPage/)
+
