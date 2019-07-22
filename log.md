@@ -300,3 +300,13 @@ On another note. I finished my mini project yesterday and it is still buggy with
 
 [Survey Page](https://mohammedasker.github.io/SurveyPage/)
 
+### Day 42: July 22, 2019
+
+**Today's Progress**: Added border layout of pricing section for landing page.
+
+**Thoughts** Only 4 user stories are left before the test atr all green. Beside layouts which I will get back to it later, there are two contents I frankly don't what it is and need to learn more about it. And they are: submitting email to URL provided by FFC and clicking a button that will take to the corresponding section of the page. Technically, I did the second one, but for some reason, it's passing the test.
+
+**Link(s) to work**
+
+[Survey Page](https://mohammedasker.github.io/SurveyPage/)
+
