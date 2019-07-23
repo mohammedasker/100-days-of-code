@@ -314,7 +314,7 @@ On another note. I finished my mini project yesterday and it is still buggy with
 
 **Today's Progress**: Fixed nav links, email form and added media query of landing page.
 
-**Thoughts** Good grief - I spend 3 hours fixing media query to no avail and turns out it's working just fine on codepen. I don't care when someone says it works on my machine but I'm getting panic when it;s NOT working on my machine!
+**Thoughts** Good grief - I spend 3 hours fixing media query to no avail and turns out it's working just fine on codepen. I don't care when someone says it works on my machine but I'm getting panic when it;s NOT working on my machine! In any case, I completed the project somehow.
 
 **Link(s) to work**
 
