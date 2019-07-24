@@ -320,3 +320,9 @@ On another note. I finished my mini project yesterday and it is still buggy with
 
 [Survey Page](https://mohammedasker.github.io/SurveyPage/)
 
+### Day 44: July 24, 2019
+
+**Today's Progress**: Started fourth project of FFC.
+
+**Thoughts** There was a black out in my house today so I get to code for 1 hour only. This project looks slightly easier than the third project since I'll use less CSS and no flexbox.
+
