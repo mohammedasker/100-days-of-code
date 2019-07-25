@@ -326,3 +326,8 @@ On another note. I finished my mini project yesterday and it is still buggy with
 
 **Thoughts** There was a black out in my house today so I get to code for 1 hour only. This project looks slightly easier than the third project since I'll use less CSS and no flexbox.
 
+### Day 45: July 25, 2019
+
+**Today's Progress**: Added some code snippets and changed menu layout of fourth project for FFC.
+
+**Thoughts** The project is going fine so far and my only pet peeve at the moment is I don't know how I can display code examples in my project. I'm aware that I can use both pre tag and code tag HTML elements, but what I see in the article examples is different from what actually happens in my page. Like I'm not formatting the code properly or worse the blogs failed to mention some critical information. I need to find out more!
