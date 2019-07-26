@@ -331,3 +331,11 @@ On another note. I finished my mini project yesterday and it is still buggy with
 **Today's Progress**: Added some code snippets and changed menu layout of fourth project for FFC.
 
 **Thoughts** The project is going fine so far and my only pet peeve at the moment is I don't know how I can display code examples in my project. I'm aware that I can use both pre tag and code tag HTML elements, but what I see in the article examples is different from what actually happens in my page. Like I'm not formatting the code properly or worse the blogs failed to mention some critical information. I need to find out more!
+
+### Day 46: July 26, 2019
+
+**Today's Progress**: Passed the tests of fourth project for FFC.
+
+**Thoughts** Phew! I managed to solve most of my problems from passing the test to displaying the code samples. In order to display the code snippets on your web page, you have to use some weird signs in HTML if you want to display the symbol characters. I cannot show you the example right here cause I'm worry I might mess up the journal entry here. Maybe another time.
+
+Tomorrow, I have to make the page mobile friendly and then I will submit the project to the FCC.
