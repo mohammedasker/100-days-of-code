@@ -339,3 +339,9 @@ On another note. I finished my mini project yesterday and it is still buggy with
 **Thoughts** Phew! I managed to solve most of my problems from passing the test to displaying the code samples. In order to display the code snippets on your web page, you have to use some weird signs in HTML if you want to display the symbol characters. I cannot show you the example right here cause I'm worry I might mess up the journal entry here. Maybe another time.
 
 Tomorrow, I have to make the page mobile friendly and then I will submit the project to the FCC.
+
+### Day 47: July 27, 2019
+
+**Today's Progress**: Made the fourth project responsive and submitted to the FFC.
+
+**Thoughts** It took me a long time to turn the project into mobile friendly and it was not easy at all. Creating the side menu and change it into top menu for mobile screen takes
