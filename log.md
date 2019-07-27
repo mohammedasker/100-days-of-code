@@ -326,11 +326,19 @@ On another note. I finished my mini project yesterday and it is still buggy with
 
 **Thoughts** There was a black out in my house today so I get to code for 1 hour only. This project looks slightly easier than the third project since I'll use less CSS and no flexbox.
 
+**Link(s) to work**
+
+[HTMLdocs](https://mohammedasker.github.io/HTMLdocs/)
+
 ### Day 45: July 25, 2019
 
 **Today's Progress**: Added some code snippets and changed menu layout of fourth project for FFC.
 
 **Thoughts** The project is going fine so far and my only pet peeve at the moment is I don't know how I can display code examples in my project. I'm aware that I can use both pre tag and code tag HTML elements, but what I see in the article examples is different from what actually happens in my page. Like I'm not formatting the code properly or worse the blogs failed to mention some critical information. I need to find out more!
+
+**Link(s) to work**
+
+[HTMLdocs](https://mohammedasker.github.io/HTMLdocs/)
 
 ### Day 46: July 26, 2019
 
@@ -340,8 +348,16 @@ On another note. I finished my mini project yesterday and it is still buggy with
 
 Tomorrow, I have to make the page mobile friendly and then I will submit the project to the FCC.
 
+**Link(s) to work**
+
+[HTMLdocs](https://mohammedasker.github.io/HTMLdocs/)
+
 ### Day 47: July 27, 2019
 
 **Today's Progress**: Made the fourth project responsive and submitted to the FFC.
 
-**Thoughts** It took me a long time to turn the project into mobile friendly and it was not easy at all. Creating the side menu and change it into top menu for mobile screen takes
+**Thoughts** It took me a long time to turn the project into mobile friendly and it was not easy at all. Creating the side menu and change it into top menu for mobile screen takes a lot of work than I thought. I guess it will be a while before I can get comfortable building menus and navbars in general.
+
+**Link(s) to work**
+
+[HTMLdocs](https://mohammedasker.github.io/HTMLdocs/)
