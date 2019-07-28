@@ -361,3 +361,13 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Link(s) to work**
 
 [HTMLdocs](https://mohammedasker.github.io/HTMLdocs/)
+
+### Day 48: July 28, 2019
+
+**Today's Progress**: Started building the fifth project of FFC.
+
+**Thoughts** I want to keep the website as simple as possible so I can finish the project quicker. It's almost done and I need to find ways upload images to the internet so I can post it on Codepen.
+
+**Link(s) to work**
+
+[Portfolio](https://mohammedasker.github.io/Portfolio/)
