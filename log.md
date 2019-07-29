@@ -372,7 +372,7 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 
 [Portfolio](https://mohammedasker.github.io/Portfolio/)
 
-### Day 48: July 28, 2019
+### Day 49: July 29, 2019
 
 **Today's Progress**: Finished building the fifth project of FFC and earned FFC Responsive Web Design.
 
