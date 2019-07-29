@@ -371,3 +371,13 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Link(s) to work**
 
 [Portfolio](https://mohammedasker.github.io/Portfolio/)
+
+### Day 48: July 28, 2019
+
+**Today's Progress**: Finished building the fifth project of FFC and earned FFC Responsive Web Design.
+
+**Thoughts** I earned my first certificate of Free Code Camp! Yay!! The viewport thing was not clear at all until I stumbled at the forum in FCC. I just had to use vh when setting the height of the welcome section equal to that of viewport. Lesson learned
+
+**Link(s) to work**
+
+[Portfolio](https://mohammedasker.github.io/Portfolio/)
