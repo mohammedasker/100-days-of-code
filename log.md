@@ -374,10 +374,16 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 
 ### Day 49: July 29, 2019
 
-**Today's Progress**: Finished building the fifth project of FFC and earned FFC Responsive Web Design.
+**Today's Progress**: Finished building the fifth project of FFC and earned FFC Responsive Web Design certificate.
 
 **Thoughts** I earned my first certificate of Free Code Camp! Yay!! The viewport thing was not clear at all until I stumbled at the forum in FCC. I just had to use vh when setting the height of the welcome section equal to that of viewport. Lesson learned
 
 **Link(s) to work**
 
 [Portfolio](https://mohammedasker.github.io/Portfolio/)
+
+### Day 50: Aug 2, 2019
+
+**Today's Progress**: Refactored JS Code codes and solved FreeCodeCamp JavaScript challenges.
+
+**Thoughts** I've got an internship (unrelated to coding) which completely messed up my scheduling and at one point was too tired to touch my smartphone, let alone tweeting my progress. Until I fully get my time back into control, I'll limit myself to code at least 1 hour per day.
