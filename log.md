@@ -387,3 +387,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Refactored JS Code codes and solved FreeCodeCamp JavaScript challenges.
 
 **Thoughts** I've got an internship (unrelated to coding) which completely messed up my scheduling and at one point was too tired to touch my smartphone, let alone tweeting my progress. Until I fully get my time back into control, I'll limit myself to code at least 1 hour per day.
+
+### Day 51: Aug 3, 2019
+
+**Today's Progress**: Refactored JS Dojo variable codes and solved one FreeCodeCamp JavaScript challenges.
+
+**Thoughts** I didn't do it much today cause I'm out of ideas or directions or whatever. What I want to do next is learn queryselector as much as I can and put to into practical use.
