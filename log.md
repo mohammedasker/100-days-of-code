@@ -399,3 +399,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Practicing querySelector by playing around in a dummy page.
 
 **Thoughts** I don't know when and where it will make sense to use querySelector in a real world scenairos. From what I understood, it's basically a faster version of getElementByClassName and getElementById which consumes a lot of time writing when you can use querySelector instead. It's one of the reason why Jquery was created.
+
+### Day 53: Aug 5, 2019
+
+**Today's Progress**: More practice of querySelector in a dummy page.
+
+**Thoughts** Got no work today, so I was able to code at my usual time. Still trying to get hang on how querySelector works and need more time to fully understand it.
