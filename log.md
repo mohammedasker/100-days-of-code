@@ -405,3 +405,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: More practice of querySelector in a dummy page.
 
 **Thoughts** Got no work today, so I was able to code at my usual time. Still trying to get hang on how querySelector works and need more time to fully understand it.
+
+### Day 53: Aug 5, 2019
+
+**Today's Progress**: Even more practice of querySelector in a dummy page.
+
+**Thoughts** Today was an unproductive day. Made no meaningful progress and feel like I wasted a lot of free time. I'll forgot about querySelector for now and do something else like signing up for JavaScript30 course.
