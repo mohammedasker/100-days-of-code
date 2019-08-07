@@ -416,6 +416,4 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 
 **Today's Progress**: Practiced bit of arrow functions and started drum kit project.
 
-Another day. Another unproductive day. I signed up Wes Bos's JavaScript 30 course today to see how ES6 JavaScript can be used to build projects. For some reason, I'm still not feeling condifent with JavaScript even after playing around for more than 2 months. Let's see if this course will help me  to get better understanding of JavaScript.
-
-**Thoughts**
+**Thoughts** Another day. Another unproductive day. I signed up Wes Bos's JavaScript 30 course today to see how ES6 JavaScript can be used to build projects. For some reason, I'm still not feeling condifent with JavaScript even after playing around for more than 2 months. Let's see if this course will help me  to get better understanding of JavaScript.
