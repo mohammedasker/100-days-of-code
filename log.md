@@ -423,3 +423,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Finished creating a drum kit project from JavaScript50.
 
 **Thoughts** Not bad. Wes Bos has already prepared HTML and CSS files so that I can focus learning JavaScript50 practicals. I've seen how he used querySelector and querySelectorAll to make changes to the keys. In other words, maybe querySelector and querySelectorAll is better suited for passing logics in nodeLists instead of messing around the DOM like how I normally use getElementsByWhatevers.
+
+### Day 57: Aug 10, 2019
+
+**Today's Progress**: Started and finished creating a clock project from JavaScript50.
+
+**Thoughts** I tried to get minutes and hour hands working with a big failure and how Wes solved it is much simpler than mine. Lol. At least I practice it if nothing else. On another note, he used querySelector and picked up classname element. This begs me a question: Can querySelector pick "Anything" in HTML? I'm eager to know.
