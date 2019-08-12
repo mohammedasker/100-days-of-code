@@ -426,6 +426,18 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 
 ### Day 57: Aug 10, 2019
 
-**Today's Progress**: Started and finished creating a clock project from JavaScript50.
+**Today's Progress**: Started and finished creating a clock project from JavaScript30.
 
 **Thoughts** I tried to get minutes and hour hands working with a big failure and how Wes solved it is much simpler than mine. Lol. At least I practice it if nothing else. On another note, he used querySelector and picked up classname element. This begs me a question: Can querySelector pick "Anything" in HTML? I'm eager to know.
+
+### Day 58: Aug 11, 2019
+
+**Today's Progress**: Practiced a lit bit of querySelector.
+
+**Thoughts** Thanks to Wes Bos's JavaScript30 course, I start to understand how querySelector works. Basically, I have to write the element names correctly inside the brackets. For instance, if I want to get id name Hello, I should write #Hello. And if want classname or tagname, I should write .Hello or just Hello. It's more efficient and replaces getElementByWhatevers. The only cost is it does not work on Internet Explorer.
+
+### Day 59: Aug 12, 2019
+
+**Today's Progress**: Build a CSS Variables from JavaScript30.
+
+**Thoughts** There's a lot of stuff to digest from that project, but it was certainly intersting on how I can use JS to control the CSS and change the looks and effects dynamically. More importantly, he used querySelectorAll to connect three elements at the same time & do cool stuffs. That;s what I want to focus now.
