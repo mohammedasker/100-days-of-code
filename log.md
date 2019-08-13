@@ -441,3 +441,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Build a CSS Variables from JavaScript30.
 
 **Thoughts** There's a lot of stuff to digest from that project, but it was certainly intersting on how I can use JS to control the CSS and change the looks and effects dynamically. More importantly, he used querySelectorAll to connect three elements at the same time & do cool stuffs. That;s what I want to focus now.
+
+### Day 60: Aug 13, 2019
+
+**Today's Progress**: Doing an array cardio excrcise JavaScript30.
+
+**Thoughts** That project I'm doing right now might be boring, but it's going to help me to level up my JavaScript skills. If there's one thing to complain, it is that it's for back end and I don't think I will use it for the next year.
