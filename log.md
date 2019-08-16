@@ -453,3 +453,15 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Start doing Flex Panel Gallery for JavaScript30.
 
 **Thoughts** I finished the array cardio project and gotta say it was pretty daunting working through all these array. But now that I'm back to the main page, I should be able to fun with the visuals again.
+
+### Day 62: Aug 15, 2019
+
+**Today's Progress**: Finished doing Flex Panel Gallery for JavaScript30.
+
+**Thoughts** The project itself was not bad, but I'm starting to get confused about the codes and information and... basically everything in the JS30 itself. Maybe because I haven't got the all basics of JavaScript under the belt yet.
+
+### Day 63: Aug 16, 2019
+
+**Today's Progress**: Solved 12 JavaScript challenges in FFC.
+
+**Thoughts** I've taken a short break from JS30 and do some FFC challenges cause my brain needs some excerise. And there's no any exciting projects I have planned yet. God, what am I doing now?
