@@ -466,7 +466,7 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 
 **Thoughts** I've taken a short break from JS30 and do some FFC challenges cause my brain needs some excerise. And there's no any exciting projects I have planned yet. God, what am I doing now?
 
-### Day 63: Aug 16, 2019
+### Day 64: Aug 17, 2019
 
 **Today's Progress**: Solved some JavaScript challenges in FFC and learned Flexbox from Traversy Media.
 
