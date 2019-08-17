@@ -465,3 +465,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Solved 12 JavaScript challenges in FFC.
 
 **Thoughts** I've taken a short break from JS30 and do some FFC challenges cause my brain needs some excerise. And there's no any exciting projects I have planned yet. God, what am I doing now?
+
+### Day 63: Aug 16, 2019
+
+**Today's Progress**: Solved some JavaScript challenges in FFC and learned Flexbox from Traversy Media.
+
+**Thoughts** Flexbox looks much simpler than I thought. There are some projects that I want to replace those annoying floating with cool flexs. On another note, dark themes are just better than light themes.
