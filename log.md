@@ -471,3 +471,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Solved some JavaScript challenges in FFC and learned Flexbox from Traversy Media.
 
 **Thoughts** Flexbox looks much simpler than I thought. There are some projects that I want to replace those annoying floating with cool flexs. On another note, dark themes are just better than light themes.
+
+### Day 65: Aug 18, 2019
+
+**Today's Progress**: Fixed product landing page using Flexbox.
+
+**Thoughts** Feeling proud of myself today. I withhold my honor and did the FFC landing page correctly without using loophole. This time I actually took the time to learn Flexbox properly and immediately applied to my old project. Flexbox is the best!!!!
