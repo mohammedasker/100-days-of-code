@@ -477,3 +477,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Fixed product landing page using Flexbox.
 
 **Thoughts** Feeling proud of myself today. I withhold my honor and did the FFC landing page correctly without using loophole. This time I actually took the time to learn Flexbox properly and immediately applied to my old project. Flexbox is the best!!!!
+
+### Day 66: Aug 20, 2019
+
+**Today's Progress**: Trying to make drop down menu.
+
+**Thoughts** Yesterday, I didn't write the journal because I wasted my time on useless things like coming up with project ideas when I should've focused on coding itself.
