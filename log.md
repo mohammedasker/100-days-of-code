@@ -483,3 +483,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Trying to make drop down menu.
 
 **Thoughts** Yesterday, I didn't write the journal because I wasted my time on useless things like coming up with project ideas when I should've focused on coding itself.
+
+### Day 67: Aug 21, 2019
+
+**Today's Progress**: Still making drop down menu.
+
+**Thoughts** I cannot believe how hard is to make a mobile drop menu. Creating drop menu itself is ok. Creating an animated sandwich is also ok. But to do both of them at the same time? Not ok. How in the world did so many developers do that?
