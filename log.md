@@ -489,3 +489,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Still making drop down menu.
 
 **Thoughts** I cannot believe how hard is to make a mobile drop menu. Creating drop menu itself is ok. Creating an animated sandwich is also ok. But to do both of them at the same time? Not ok. How in the world did so many developers do that?
+
+### Day 68: Aug 22, 2019
+
+**Today's Progress**: And yet still making drop down menu and it's getting harder and harder.
+
+**Thoughts** Hamburger menu is so freaking hard to make. I have nothing else to say.
