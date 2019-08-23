@@ -495,3 +495,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: And yet still making drop down menu and it's getting harder and harder.
 
 **Thoughts** Hamburger menu is so freaking hard to make. I have nothing else to say.
+
+### Day 69: Aug 23, 2019
+
+**Today's Progress**: Forked and breaking someone's drop down menu.
+
+**Thoughts** Okay, after calming myself down and quietly working on someone's codes, I'm slowly starting to see the dots here and there. This should help me to understand better on building mobile menu.
