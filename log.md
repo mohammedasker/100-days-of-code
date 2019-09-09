@@ -501,3 +501,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Forked and breaking someone's drop down menu.
 
 **Thoughts** Okay, after calming myself down and quietly working on someone's codes, I'm slowly starting to see the dots here and there. This should help me to understand better on building mobile menu.
+
+### Day 70: Sep 9, 2019
+
+**Today's Progress**: Resume the challenge and practicing queryselectorall.
+
+**Thoughts** I had an internet problem for 2 weeks and so I wasn't able to post my activities on GitHub and coding on-and-off. Now that I'm back I need to make the most of it for the rest of challenge days.
