@@ -507,3 +507,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: Resume the challenge and practicing queryselectorall.
 
 **Thoughts** I had an internet problem for 2 weeks and so I wasn't able to post my activities on GitHub and coding on-and-off. Now that I'm back I need to make the most of it for the rest of challenge days.
+
+### Day 71: Sep 10, 2019
+
+**Today's Progress**: More practicing queryselectorall.
+
+**Thoughts** Ok, so I start getting the first clue that I can access nodelist using queryselectorall. To be honest, I don't fully understand how nodelist works, but it can be a key to learn the true power of queryselectorall. Need more practice.
