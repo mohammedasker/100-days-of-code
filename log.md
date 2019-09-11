@@ -513,3 +513,11 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Today's Progress**: More practicing queryselectorall.
 
 **Thoughts** Ok, so I start getting the first clue that I can access nodelist using queryselectorall. To be honest, I don't fully understand how nodelist works, but it can be a key to learn the true power of queryselectorall. Need more practice.
+
+### Day 72: Sep 11, 2019
+
+**Today's Progress**: Yet another practicing queryselectorall.
+
+**Thoughts** Ok, so I'm starting to get a hang of queryselectorall (which is cool feeling btw) and now I need to find ways of applying this feature into practical use. Like when to use and when not to for example.
+
+Also, I got less than 30 days before I finish 100 days of challenge so I need to make one more project using all the features I've learned so far during the journey of programming.
