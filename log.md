@@ -521,3 +521,9 @@ Tomorrow, I have to make the page mobile friendly and then I will submit the pro
 **Thoughts** Ok, so I'm starting to get a hang of queryselectorall (which is cool feeling btw) and now I need to find ways of applying this feature into practical use. Like when to use and when not to for example.
 
 Also, I got less than 30 days before I finish 100 days of challenge so I need to make one more project using all the features I've learned so far during the journey of programming.
+
+### Day 73: Sep 12, 2019
+
+**Today's Progress**: Start building note app.
+
+**Thoughts** I discovered a cool DOM feature called create element and append element in JS which allows you to create that infinte amount of uhhh... many things! Like popping text list you see in to-do list or something ilke that. Basically, I learned how developers make this kind of stuff.
