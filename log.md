@@ -527,3 +527,9 @@ Also, I got less than 30 days before I finish 100 days of challenge so I need to
 **Today's Progress**: Start building note app.
 
 **Thoughts** I discovered a cool DOM feature called create element and append element in JS which allows you to create that infinte amount of uhhh... many things! Like popping text list you see in to-do list or something ilke that. Basically, I learned how developers make this kind of stuff.
+
+### Day 74: Sep 13, 2019
+
+**Today's Progress**: A text is saved and shows as a list when clicked save button.
+
+**Thoughts** OKay, this is getting really cool! I'm building a simple app which is challenging, yet is achievable. I was wondering why Object HTMLTextAreaElement keeps appearing when creating a text, but turns out I forgot to add .value. Oopis!!!
