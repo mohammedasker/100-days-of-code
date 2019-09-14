@@ -533,3 +533,9 @@ Also, I got less than 30 days before I finish 100 days of challenge so I need to
 **Today's Progress**: A text is saved and shows as a list when clicked save button.
 
 **Thoughts** OKay, this is getting really cool! I'm building a simple app which is challenging, yet is achievable. I was wondering why Object HTMLTextAreaElement keeps appearing when creating a text, but turns out I forgot to add .value. Oopis!!!
+
+### Day 75: Sep 14, 2019
+
+**Today's Progress**: Adding a delete button on right side of the note but not working yet.
+
+**Thoughts* And thus the struggle begins... I don't know why my code is not working. Even though I *gasp* copy-and-taste some snippets from the tutorial, it's still not showing the x button. I must make this work no matter!!
