@@ -538,4 +538,21 @@ Also, I got less than 30 days before I finish 100 days of challenge so I need to
 
 **Today's Progress**: Adding a delete button on right side of the note but not working yet.
 
-**Thoughts* And thus the struggle begins... I don't know why my code is not working. Even though I *gasp* copy-and-taste some snippets from the tutorial, it's still not showing the x button. I must make this work no matter!!
+**Thoughts** And thus the struggle begins... I don't know why my code is not working. Even though I *gasp* copy-and-taste some snippets from the tutorial, it's still not showing the x button. I must make this work no matter!!
+
+### Day 76: Sep 15, 2019
+
+**Today's Progress**: Fixed the problem and now delete buttons spans when notes are saved.
+
+**Thoughts** I managed to fix the problem and turns out that I have made bunch of mistakes and they are:
+1. Adding quotations to variable names, turning it into strings.
+2. Did not write variable names carefully, so variable a overlaps variable b and so on - basically the computer don't know what to do, so it did nothing. Not even shooting error warnings.
+3. There are some missing codes that I forgot to write which IMO is the biggest reason it was not working in the first place.
+
+All in all, critical issues has taken care of. Now I can focus on other things.
+
+### Day 77: Sep 16, 2019
+
+**Today's Progress**: Fixed close button and now able to hide notes.
+
+**Thoughts** I have so many questions to ask, but importantly I have finished the second part of the project. Now the real challenges begins as this is the where I have to add new features on my own!
