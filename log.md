@@ -555,4 +555,10 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Today's Progress**: Fixed close button and now able to hide notes.
 
-**Thoughts** I have so many questions to ask, but importantly I have finished the second part of the project. Now the real challenges begins as this is the where I have to add new features on my own!
+**Thoughts** I have so many questions to ask, but more importantly I have finished the second part of the project. Now the real challenges begins as this is the where I have to add new features on my own!
+
+### Day 78: Sep 17, 2019
+
+**Today's Progress**: Added an edit button on my note app.
+
+**Thoughts** I managed to add edit button and it appears on all saved notes. Yaaayy!! But the close button is not working and affects all notes. Boooo! I got more stuffs to fix it before I can add more features.
