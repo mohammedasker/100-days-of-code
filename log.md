@@ -562,3 +562,27 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 **Today's Progress**: Added an edit button on my note app.
 
 **Thoughts** I managed to add edit button and it appears on all saved notes. Yaaayy!! But the close button is not working and affects all notes. Boooo! I got more stuffs to fix it before I can add more features.
+
+### Day 79: Sep 18, 2019
+
+**Today's Progress**: Learning contenteditable in HTML.
+
+**Thoughts** I learned how to let user edit their contents and while it's fairly straightforward, it's pretty powerful. I'm amazed at the HTML features.
+
+### Day 79.5: Sep 19, 2019
+
+**Today's Progress**: Taking a break from coding.
+
+**Thoughts** I was feeling too tired to open laptop, so I took a break to recharge myself.
+
+### Day 80: Sep 20, 2019
+
+**Today's Progress**: Added code snippets that allow users to edit texts on my project.
+
+**Thoughts** My code partially works fine as long as I don't care about the style which unfortunately is not the case. I'm getting a weird output and wanted to get rid of it cause well, it looks weird.
+
+### Day 81: Sep 21, 2019
+
+**Today's Progress**: Debugging my note app.
+
+**Thoughts** This [object CSSStyleDeclaration] output is starting to test my patient! I have absolutely no idea what's going on here. I didn't find someone else struggling this problem in Google search or maybe I googled the wrong words. In any case, I'm going to need help and in the meantime, trying to read all about CSSStyleDeclaration.
