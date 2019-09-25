@@ -586,3 +586,21 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 **Today's Progress**: Debugging my note app.
 
 **Thoughts** This [object CSSStyleDeclaration] output is starting to test my patient! I have absolutely no idea what's going on here. I didn't find someone else struggling this problem in Google search or maybe I googled the wrong words. In any case, I'm going to need help and in the meantime, trying to read all about CSSStyleDeclaration.
+
+### Day 82: Sep 22, 2019
+
+**Today's Progress**: Still ebugging my note app.
+
+**Thoughts** That bug is so annoying that I don't think I will fix for more than a week.
+
+### Day 83: Sep 22, 2019
+
+**Today's Progress**: And yet still debugging my note app.
+
+**Thoughts** Read some answers on Stack Overflow and didn't find any helpful tips.
+
+### Day 84: Sep 22, 2019
+
+**Today's Progress**: Reading more about contenteditable and trying to make edit button work.
+
+**Thoughts** I will take a break from debugging because it's been 5 days since encountering the problem and it's getting no where. I'll just go and focus on edit button instead.
