@@ -593,14 +593,20 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Thoughts** That bug is so annoying that I don't think I will fix for more than a week.
 
-### Day 83: Sep 22, 2019
+### Day 83: Sep 23, 2019
 
 **Today's Progress**: And yet still debugging my note app.
 
 **Thoughts** Read some answers on Stack Overflow and didn't find any helpful tips.
 
-### Day 84: Sep 22, 2019
+### Day 84: Sep 25, 2019
 
 **Today's Progress**: Reading more about contenteditable and trying to make edit button work.
 
 **Thoughts** I will take a break from debugging because it's been 5 days since encountering the problem and it's getting no where. I'll just go and focus on edit button instead.
+
+### Day 85: Sep 27, 2019
+
+**Today's Progress**: Learned how to toggle button so user can edit contents.
+
+**Thoughts** Lately, I'm getting so much interruption from an obiligatory errands to job duties that I'm having a hard time focusing on my coding. The lack sense of concentration is what cause me to not be able to come up with solutions to my problem. I need to find a way to focus on my work again.
