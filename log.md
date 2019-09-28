@@ -610,3 +610,9 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 **Today's Progress**: Learned how to toggle button so user can edit contents.
 
 **Thoughts** Lately, I'm getting so much interruption from an obiligatory errands to job duties that I'm having a hard time focusing on my coding. The lack sense of concentration is what cause me to not be able to come up with solutions to my problem. I need to find a way to focus on my work again.
+
+### Day 86: Sep 28, 2019
+
+**Today's Progress**: Managed to get edit button  working in dummy file.
+
+**Thoughts** I think I found good time to code when my house is relatively quiet and get less interruption. Doing it in the morning after gettinh home from work is good idea. I got less than 15 days to complete the project before it reached day 100.
