@@ -616,3 +616,17 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 **Today's Progress**: Managed to get edit button  working in dummy file.
 
 **Thoughts** I think I found good time to code when my house is relatively quiet and get less interruption. Doing it in the morning after gettinh home from work is good idea. I got less than 15 days to complete the project before it reached day 100.
+
+### Day 87: Sep 29, 2019
+
+**Today's Progress**: Figuring out how to change the textnode value.
+
+**Thoughts** It took me an awful amount of time googling and debugging around I come a across a Stack Overflow question where a person asked on how to change the textnode value. From that point, I come to fully understand on my problem. While I'm thinking about changing the HTML content like using InnerHTML, what I'm actually looking for is how to replace the textnode because the thing that I want to change is the node! Once I start to google it, I found the answer, but was too tired to implement it so I left it there for the next day.
+
+### Day 88: Sep 30, 2019
+
+**Today's Progress**: Fixed the edit button and now it is working on the main project.
+
+**Thoughts** I can't believe I create an edit button. It's working, baby! I can create a new note, edit saved note which you click the edit button and the content is editable and clicking again will make it not editable, and finally delete the button. How cool is that?!
+
+The key here is node.nodeValue = 'new value'. This feature will allow you to replace the textnode with the one.
