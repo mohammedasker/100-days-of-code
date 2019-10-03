@@ -623,10 +623,14 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Thoughts** It took me an awful amount of time googling and debugging around I come a across a Stack Overflow question where a person asked on how to change the textnode value. From that point, I come to fully understand on my problem. While I'm thinking about changing the HTML content like using InnerHTML, what I'm actually looking for is how to replace the textnode because the thing that I want to change is the node! Once I start to google it, I found the answer, but was too tired to implement it so I left it there for the next day.
 
-### Day 88: Sep 30, 2019
+### Day 89: Oct 1, 2019
 
-**Today's Progress**: Fixed the edit button and now it is working on the main project.
+**Today's Progress**: Fixed the bug that was hindering my progress & had to ask for help.
 
-**Thoughts** I can't believe I create an edit button. It's working, baby! I can create a new note, edit saved note which you click the edit button and the content is editable and clicking again will make it not editable, and finally delete the button. How cool is that?!
+**Thoughts** You know, it's kind of weird the problem I have been facing for so long I have to enlist for help in Twitter, Stac Overflow, and FreeCodeCamp forum and the solution I found was so simple that I find embarrassing. Instead of messing around in JavaScript and add some complex codes, changing the element tag from div to ul was all it took to fix my problem.
 
-The key here is node.nodeValue = 'new value'. This feature will allow you to replace the textnode with the one.
+### Day 90: Oct 3, 2019
+
+**Today's Progress**: Change the style of the project.
+
+**Thoughts** Made the neceassary changes like the app design and make it friendly. Made some silly bugs along the way, but I know what to do to fix it.
