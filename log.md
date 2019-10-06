@@ -528,17 +528,29 @@ Also, I got less than 30 days before I finish 100 days of challenge so I need to
 
 **Thoughts** I discovered a cool DOM feature called create element and append element in JS which allows you to create that infinte amount of uhhh... many things! Like popping text list you see in to-do list or something ilke that. Basically, I learned how developers make this kind of stuff.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 74: Sep 13, 2019
 
 **Today's Progress**: A text is saved and shows as a list when clicked save button.
 
 **Thoughts** OKay, this is getting really cool! I'm building a simple app which is challenging, yet is achievable. I was wondering why Object HTMLTextAreaElement keeps appearing when creating a text, but turns out I forgot to add .value. Oopis!!!
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 75: Sep 14, 2019
 
 **Today's Progress**: Adding a delete button on right side of the note but not working yet.
 
-**Thoughts** And thus the struggle begins... I don't know why my code is not working. Even though I *gasp* copy-and-taste some snippets from the tutorial, it's still not showing the x button. I must make this work no matter!!
+**Thoughts** And thus the struggle begins... I don't know why my code is not working. Even though I *gasp* copy-and-taste some snippets from the tutorial, it's still not showing the x button. I must make this work no matter what!!
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
 
 ### Day 76: Sep 15, 2019
 
@@ -551,11 +563,19 @@ Also, I got less than 30 days before I finish 100 days of challenge so I need to
 
 All in all, critical issues has taken care of. Now I can focus on other things.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 77: Sep 16, 2019
 
 **Today's Progress**: Fixed close button and now able to hide notes.
 
 **Thoughts** I have so many questions to ask, but more importantly I have finished the second part of the project. Now the real challenges begins as this is the where I have to add new features on my own!
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
 
 ### Day 78: Sep 17, 2019
 
@@ -563,11 +583,19 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Thoughts** I managed to add edit button and it appears on all saved notes. Yaaayy!! But the close button is not working and affects all notes. Boooo! I got more stuffs to fix it before I can add more features.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 79: Sep 18, 2019
 
 **Today's Progress**: Learning contenteditable in HTML.
 
 **Thoughts** I learned how to let user edit their contents and while it's fairly straightforward, it's pretty powerful. I'm amazed at the HTML features.
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
 
 ### Day 79.5: Sep 19, 2019
 
@@ -581,11 +609,19 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Thoughts** My code partially works fine as long as I don't care about the style which unfortunately is not the case. I'm getting a weird output and wanted to get rid of it cause well, it looks weird.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 81: Sep 21, 2019
 
 **Today's Progress**: Debugging my note app.
 
 **Thoughts** This [object CSSStyleDeclaration] output is starting to test my patient! I have absolutely no idea what's going on here. I didn't find someone else struggling this problem in Google search or maybe I googled the wrong words. In any case, I'm going to need help and in the meantime, trying to read all about CSSStyleDeclaration.
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
 
 ### Day 82: Sep 22, 2019
 
@@ -593,11 +629,19 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Thoughts** That bug is so annoying that I don't think I will fix for more than a week.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 83: Sep 23, 2019
 
 **Today's Progress**: And yet still debugging my note app.
 
-**Thoughts** Read some answers on Stack Overflow and didn't find any helpful tips.
+**Thoughts** Read some answers on Stack Overflow and didn't find any helpful tips. Oh well, keep reading on
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
 
 ### Day 84: Sep 25, 2019
 
@@ -605,11 +649,19 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Thoughts** I will take a break from debugging because it's been 5 days since encountering the problem and it's getting no where. I'll just go and focus on edit button instead.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 85: Sep 27, 2019
 
 **Today's Progress**: Learned how to toggle button so user can edit contents.
 
 **Thoughts** Lately, I'm getting so much interruption from an obiligatory errands to job duties that I'm having a hard time focusing on my coding. The lack sense of concentration is what cause me to not be able to come up with solutions to my problem. I need to find a way to focus on my work again.
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
 
 ### Day 86: Sep 28, 2019
 
@@ -617,11 +669,19 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Thoughts** I think I found good time to code when my house is relatively quiet and get less interruption. Doing it in the morning after gettinh home from work is good idea. I got less than 15 days to complete the project before it reached day 100.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 87: Sep 29, 2019
 
 **Today's Progress**: Figuring out how to change the textnode value.
 
 **Thoughts** It took me an awful amount of time googling and debugging around I come a across a Stack Overflow question where a person asked on how to change the textnode value. From that point, I come to fully understand on my problem. While I'm thinking about changing the HTML content like using InnerHTML, what I'm actually looking for is how to replace the textnode because the thing that I want to change is the node! Once I start to google it, I found the answer, but was too tired to implement it so I left it there for the next day.
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
 
 ### Day 89: Oct 1, 2019
 
@@ -629,27 +689,39 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 
 **Thoughts** You know, it's kind of weird the problem I have been facing for so long I have to enlist for help in Twitter, Stac Overflow, and FreeCodeCamp forum and the solution I found was so simple that I find embarrassing. Instead of messing around in JavaScript and add some complex codes, changing the element tag from div to ul was all it took to fix my problem.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 90: Oct 3, 2019
 
 **Today's Progress**: Change the style of the project.
 
 **Thoughts** Made the neceassary changes like the app design and make it friendly. Made some silly bugs along the way, but I know what to do to fix it.
 
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
 ### Day 91: Oct 4, 2019
 
 **Today's Progress**: Debugging the saved note code.
 
-**Thoughts**
-
-### Day 92: Oct 5, 2019
-
-**Today's Progress**: Still ebugging the saved note code
-
-**Thoughts** I become a bit too lazy to  write this journal cause there's really
+**Thoughts** Once again, I'm stuck on another problem. When you click the edit button, you can edit the content. Cool. But when you click a save button and refreshed the page, you cannot edit the content. Not cool.
 
 **Link(s) to work**
 
-[Note Aoo](https://mohammedasker.github.io/NotesApp//)
+[Note App](https://mohammedasker.github.io/NotesApp//)
+
+### Day 92: Oct 5, 2019
+
+**Today's Progress**: Still debugging the saved note code.
+
+**Thoughts** I become a bit too lazy to write this journal cause there's really, really annoying bug that I cannot solve. But still coding anyway.
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
 
 ### Day 93: Oct 6, 2019 
 
@@ -661,4 +733,4 @@ Regarding the bug, it turns out that I don't need to change anything in JavaScri
 
 **Link(s) to work**
 
-[Note Aoo](https://mohammedasker.github.io/NotesApp//)
+[Note App](https://mohammedasker.github.io/NotesApp//)
