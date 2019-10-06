@@ -634,3 +634,31 @@ All in all, critical issues has taken care of. Now I can focus on other things.
 **Today's Progress**: Change the style of the project.
 
 **Thoughts** Made the neceassary changes like the app design and make it friendly. Made some silly bugs along the way, but I know what to do to fix it.
+
+### Day 91: Oct 4, 2019
+
+**Today's Progress**: Debugging the saved note code.
+
+**Thoughts**
+
+### Day 92: Oct 5, 2019
+
+**Today's Progress**: Still ebugging the saved note code
+
+**Thoughts** I become a bit too lazy to  write this journal cause there's really
+
+**Link(s) to work**
+
+[Note Aoo](https://mohammedasker.github.io/NotesApp//)
+
+### Day 93: Oct 6, 2019 
+
+**Today's Progress**: Finished building the note-taking app.
+
+**Thoughts** I can't believe I actually build this project from scratch! Okay not exactly from zero as I had to google a lot and used some code snippets from W3School to-do list tutorial as a foundation. BUt seriously, I'm proud of my achievement.
+
+Regarding the bug, it turns out that I don't need to change anything in JavaScript and all I had to do is to put contenteditable attribute on savednotes tag and it did the trick. Like come on, why did I not realize this sooner and wasting my time browsing social media. It's my bad habit. (oh my God not again)
+
+**Link(s) to work**
+
+[Note Aoo](https://mohammedasker.github.io/NotesApp//)
