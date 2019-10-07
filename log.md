@@ -734,3 +734,13 @@ Regarding the bug, it turns out that I don't need to change anything in JavaScri
 **Link(s) to work**
 
 [Note App](https://mohammedasker.github.io/NotesApp//)
+
+### Day 94: Oct 7, 2019 
+
+**Today's Progress**: Made save button save contents to storage & removed redundant button.
+
+**Thoughts** Yesterday, someone told me that my save button is redundant and I could made the create button save the contents to storage. When I think about it, it actually makes sense to make onw button to create content and save it as well. So I did exactly as advised and removed unwanted button. Lastly, I renamed create button to save button and it looks better now.
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
