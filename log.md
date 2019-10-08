@@ -744,3 +744,9 @@ Regarding the bug, it turns out that I don't need to change anything in JavaScri
 **Link(s) to work**
 
 [Note App](https://mohammedasker.github.io/NotesApp//)
+
+### Day 95: Oct 8, 2019 
+
+**Today's Progress**: Learning more about Git before contributing to OSS.
+
+**Thoughts** I'm interested to join Hacktoberfest and help contribute open source projects. To do that, I need first to learn practice more about Git and GitHub and learn enough to be valuable contributer.
