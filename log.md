@@ -750,3 +750,15 @@ Regarding the bug, it turns out that I don't need to change anything in JavaScri
 **Today's Progress**: Learning more about Git before contributing to OSS.
 
 **Thoughts** I'm interested to join Hacktoberfest and help contribute open source projects. To do that, I need first to learn practice more about Git and GitHub and learn enough to be valuable contributer.
+
+### Day 96: Oct 10, 2019 
+
+**Today's Progress**: Made my first Pull Request on GitHub and merged.
+
+**Thoughts**  It's an amazing feeling when I make PR request and got merged into the forked repo. I can see myself imroving Git skills. I also opened my first issue and it's pretty cool!
+
+### Day 97: Oct 12, 2019 
+
+**Today's Progress**: Added Twitter handles files on forked repo.
+
+**Thoughts** I'm slowly getting the hang of Git routines for forked repos. There are some things I should do first before I can start mess around in someone's repo like configuring a remote for a fork.
