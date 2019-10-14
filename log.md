@@ -762,3 +762,9 @@ Regarding the bug, it turns out that I don't need to change anything in JavaScri
 **Today's Progress**: Added Twitter handles files on forked repo.
 
 **Thoughts** I'm slowly getting the hang of Git routines for forked repos. There are some things I should do first before I can start mess around in someone's repo like configuring a remote for a fork.
+
+### Day 98: Oct 14, 2019 
+
+**Today's Progress**: Removed resize from textarea, trying to timeout message and change contenteditable margin.
+
+**Thoughts** My attention are all over the place and can't focus on anyhing. Did minimum changes of my project to count my day.
