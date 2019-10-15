@@ -767,4 +767,14 @@ Regarding the bug, it turns out that I don't need to change anything in JavaScri
 
 **Today's Progress**: Removed resize from textarea, trying to timeout message and change contenteditable margin.
 
-**Thoughts** My attention are all over the place and can't focus on anyhing. Did minimum changes of my project to count my day.
+**Thoughts** My attention are all over the place and can't focus on anything. Did some minimum changes of my project to count my day.
+
+### Day 99: Oct 15, 2019 
+
+**Today's Progress**: Add hide message features on Note-taking app.
+
+**Thoughts** I felt lazy fixing some problems so I add some features to my project and make it appear better. I will eventually have to fix some glitches sooner or later.
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
