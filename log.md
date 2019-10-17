@@ -778,3 +778,13 @@ Regarding the bug, it turns out that I don't need to change anything in JavaScri
 **Link(s) to work**
 
 [Note App](https://mohammedasker.github.io/NotesApp//)
+
+### Day 100: Oct 16, 2019 
+
+**Today's Progress**: Made the messages disappear after 3 seconds in note app.
+
+**Thoughts** I finished the 1st round of 100 Days Challenge and I'm proud of it! I learned so much from the wonderful community and I managed to give back even it's little thing. What I'm going to do next is review what has worked for me and what didn't and make a plans on how to learn efficently for the next round of the challenge. For now, I'll take it easy and celebrate my accomplishment! :)
+
+**Link(s) to work**
+
+[Note App](https://mohammedasker.github.io/NotesApp//)
