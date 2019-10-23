@@ -12,6 +12,6 @@ I started the challenge by first learning JSON from my favourite web developmwnt
 
 I started another tutorial called 'Ajax Crash Course' to learn how to send request to HTTP and get me data and son. Yes, I'm still new to it, and I am learning.
 
-### R2D2 - Oct 23 2019
+### R2D3 - Oct 23 2019
 
 Still continuing from the Ajax course. Nothing newsworthy to say other than getting a first taste in API and PHP.
