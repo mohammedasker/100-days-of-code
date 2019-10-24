@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 2 - Mohammed Asker
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [Oct 21, Monday, 2019].
 
 ## Log
 
@@ -15,3 +15,7 @@ I started another tutorial called 'Ajax Crash Course' to learn how to send reque
 ### R2D3 - Oct 23 2019
 
 Still continuing from the Ajax course. Nothing newsworthy to say other than getting a first taste in API and PHP.
+
+### R2D4 - Oct 24 2019
+
+I finish the Ajax crash course and the important points to remember is XMLHttpRequest, open, onload, and send. As long as I practice them and put them in real project, then I'll be all good. On the side note, I learn a bit of PHP and MySQL and how to send data to the database and fetch from it. I accidently became a full-stack developer.
