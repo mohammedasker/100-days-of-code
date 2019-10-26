@@ -23,3 +23,7 @@ I finish the Ajax crash course and the important points to remember is XMLHttpRe
 ### R2D5 - Oct 25 2019
 
 I watched one more tutorial of Brad and this time it is fetch. Little bit easier than Ajax, but I guess I'll use them both depending on the project.
+
+### R2D6 - Oct 26 2019
+
+I started a new project called Readwits which is basically a book find web app. I added a layout for the app and it looks good for now. The resl meat of the challenge will begin tomorrow.
