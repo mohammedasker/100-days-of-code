@@ -19,3 +19,7 @@ Still continuing from the Ajax course. Nothing newsworthy to say other than gett
 ### R2D4 - Oct 24 2019
 
 I finish the Ajax crash course and the important points to remember is XMLHttpRequest, open, onload, and send. As long as I practice them and put them in real project, then I'll be all good. On the side note, I learn a bit of PHP and MySQL and how to send data to the database and fetch from it. I accidently became a full-stack developer.
+
+### R2D5 - Oct 25 2019
+
+I watched one more tutorial of Brad and this time it is fetch. Little bit easier than Ajax, but I guess I'll use them both depending on the project.
