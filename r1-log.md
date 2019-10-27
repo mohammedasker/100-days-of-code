@@ -27,3 +27,7 @@ I watched one more tutorial of Brad and this time it is fetch. Little bit easier
 ### R2D6 - Oct 26 2019
 
 I started a new project called Readwits which is basically a book find web app. I added a layout for the app and it looks good for now. The resl meat of the challenge will begin tomorrow.
+
+### R2D7 - Oct 27 2019
+
+I prepared a plans for building my project and it appears it's going to be super duper hard. I read some people codes, so this should help me to create a foundation for my project.
