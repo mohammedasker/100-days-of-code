@@ -31,3 +31,7 @@ I started a new project called Readwits which is basically a book find web app. 
 ### R2D7 - Oct 27 2019
 
 I prepared a plans for building my project and it appears it's going to be super duper hard. I read some people codes, so this should help me to create a foundation for my project.
+
+### R2D8 - Oct 28 2019
+
+I added API code snippets and while it's working partially (weird formating and cannot turn into objects or JSON), > I feel like I'm starting to see the connection between query in variable and URL in making to work the search bar.
