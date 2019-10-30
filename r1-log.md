@@ -35,3 +35,13 @@ I prepared a plans for building my project and it appears it's going to be super
 ### R2D8 - Oct 28 2019
 
 I added API code snippets and while it's working partially (weird formating and cannot turn into objects or JSON), > I feel like I'm starting to see the connection between query in variable and URL in making to work the search bar.
+
+### R2D9 - Oct 29 2019
+
+No progress today. Spend hours reading the articles and SO answers, but none solved my problem.
+
+### R2D10 - Oct 30 2019
+
+A nice guy on Twitter has helped me debug the codes and the problem was I didn't add .value at the end of query variable and move it inside the function scope. I also forgot to add # to querySelector output as that element contain id attribute. It was good that I didn't have to rewrite the entire codes. Cool.
+
+I got another problem, though. When I make API call, it returns undefined in HTML. This time I want to solve it on my own.
