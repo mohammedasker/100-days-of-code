@@ -45,3 +45,7 @@ No progress today. Spend hours reading the articles and SO answers, but none sol
 A nice guy on Twitter has helped me debug the codes and the problem was I didn't add .value at the end of query variable and move it inside the function scope. I also forgot to add # to querySelector output as that element contain id attribute. It was good that I didn't have to rewrite the entire codes. Cool.
 
 I got another problem, though. When I make API call, it returns undefined in HTML. This time I want to solve it on my own.
+
+### R2D11 - Oct 31 2019
+
+Another day. Another problem. I'm getting these undefined display in HTML after making the API calls. Funny is, when I tried to do the Ajax method, I still get the same result. I must be talented in creating buggy codes.
